@@ -1,0 +1,6 @@
+{
+  "name": "Nixeon",
+  "description": "Aplikasi Android native Nixeon untuk pengelolaan server game, panel gateway, saldo ledger, top-up QRIS/DANA, dan resource liquid glass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
